@@ -32,8 +32,6 @@ div.content {
 
 .row {
 	margin-bottom:0px;
-	overflow-y: scroll;
-	-webkit-overflow-scrolling: touch;
 }
 
 #links img{	
@@ -92,7 +90,6 @@ div.content {
 .tabs-content.carousel .carousel-item{
 	height: 100%;
 	overflow-y: scroll;
-	-webkit-overflow-scrolling: touch;
 }
 
 
@@ -234,7 +231,4 @@ button:hover {
 
 ::-webkit-scrollbar {
 	display:none;
-	-webkit-overflow-scrolling: touch;
 }
-
-
