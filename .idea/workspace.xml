@@ -15,16 +15,16 @@
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="192" column="32" selection-start-line="192" selection-start-column="32" selection-end-line="192" selection-end-column="32" />
+              <caret line="173" column="242" selection-start-line="173" selection-start-column="236" selection-end-line="173" selection-end-column="242" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="109" column="164" selection-start-line="109" selection-start-column="164" selection-end-line="109" selection-end-column="164" />
+            <state relative-caret-position="164">
+              <caret line="144" column="27" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="profile.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/profile.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="456" column="155" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="155" />
+            <state relative-caret-position="127">
+              <caret line="634" column="286" selection-start-line="634" selection-start-column="286" selection-end-line="634" selection-end-column="286" />
             </state>
           </provider>
         </entry>
@@ -73,7 +73,6 @@
       <find>Ad</find>
       <find>passi</find>
       <find>.ico</find>
-      <find>resume</find>
       <find>body</find>
       <find>scroll</find>
       <find>pag</find>
@@ -85,8 +84,9 @@
       <find>row</find>
       <find>projects</find>
       <find>col</find>
-      <find>kaustav</find>
       <find>.pdf</find>
+      <find>kaustav</find>
+      <find>resume</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,10 +96,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/error.html" />
-        <option value="$PROJECT_DIR$/js/profile.json" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/profile.json" />
       </list>
     </option>
   </component>
@@ -233,24 +233,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/profile.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="456" column="155" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="155" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="192" column="32" selection-start-line="192" selection-start-column="32" selection-end-line="192" selection-end-column="32" />
+          <caret line="173" column="242" selection-start-line="173" selection-start-column="236" selection-end-line="173" selection-end-column="242" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="144" column="27" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/profile.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="109" column="164" selection-start-line="109" selection-start-column="164" selection-end-line="109" selection-end-column="164" />
+          <caret line="634" column="286" selection-start-line="634" selection-start-column="286" selection-end-line="634" selection-end-column="286" />
         </state>
       </provider>
     </entry>
