@@ -1,1 +1,1 @@
-Kaustav's Portfolio Launched at https://www.thekaustavsarkar.com
+Kaustav's Portfolio Launched at http://www.thekaustavsarkar.com
