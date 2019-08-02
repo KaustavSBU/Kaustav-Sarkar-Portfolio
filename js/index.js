@@ -190,7 +190,7 @@ swal({
 			}
 		}).then((value)=>{
 			if(value===true) { 
-				window.open('/resume.pdf');
+				window.open('/CV.pdf');
 			}
 		})
 	}
