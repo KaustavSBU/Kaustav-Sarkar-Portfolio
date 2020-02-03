@@ -423,7 +423,7 @@
 			"periodStart": "January 2020",
 			"periodEnd": "Present",
 			"organisation": "Stony Brook University",
-			"experience": "<ul><li>Teaching Assistant for Graduate-Level Databases Course CSE 532: Theory of Database Systems</li><li> Coursework:</li></li><ul><li><li>– Includes complex queries and optimizations, XML data management, spatial data management, temporal data management, distributed and parallel databases, NoSQL databases, and MapReduce based data processing systems. We will discuss the foundations of data models, transaction models, storage, indexing and querying methods for these data management systems.</li><li> Course Website:</li></li><ul><li><li>– <a href='https://sites.google.com/a/stonybrook.edu/cse532-s20/home'> Course Website'</a></li></li></ul>",
+			"experience": "<ul><li>Teaching Assistant for Graduate-Level Databases Course CSE 532: Theory of Database Systems</li><li> Coursework:</li></li><ul><li><li>– Includes complex queries and optimizations, XML data management, spatial data management, temporal data management, distributed and parallel databases, NoSQL databases, and MapReduce based data processing systems. We will discuss the foundations of data models, transaction models, storage, indexing and querying methods for these data management systems.</li><li> Course Website:</li></li><ul><li><li>– <a href='https://sites.google.com/a/stonybrook.edu/cse532-s20/home'> CSE 532:Theory of Database Systems</a></li></li></ul>",
 			"type": "work"
 		},
 
@@ -469,6 +469,56 @@
 		}
 	],
 	"projects": [
+		{
+			"sn": 10,
+			"projectTitle": "IEEE-CIS Fraud Detection",
+			"periodStart": "August 2019",
+			"periodEnd": "September 2019",
+			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
+			"tags": ["python", "data_science", "numpy", "pandas","matplotlib", "seaborn", "scikit_learn"],
+			"shortInfo": "This project aims to improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping businesses reduce their fraud loss and increase their revenue. The project uses Python Data Science Libraries like NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn. It also involves benchmarking of machine learning models on a challenging large scale dataset, provided by Vesta's real-world e-commerce transactions.",
+			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/IEEE%20Fraud%20Prediction"
+		},
+		{
+			"sn": 11,
+			"projectTitle": "SHARK2 Decoder",
+			"periodStart": "September 2019",
+			"periodEnd": "October 2019",
+			"toolsUsed": ["Python"],
+			"tags": ["hci", "python", "human_computer_interaction", "gesture","shark2"],
+			"shortInfo": "SHARK2 is a large vocabulary shorthand writing system for pen-based computers. This method of speed-writing for pen-based computing utilizes gesturing on a stylus keyboard for familiar words and tapping for others. The project involves decoding an user input gesture and outputting the best decoded word, given a dictionary containing 10k words using the SHARK2 algorithm.",
+			"link": "https://github.com/KaustavSBU/Human-Computer-Interaction/tree/master/SHARK2"
+		},
+		{
+			"sn": 7,
+			"projectTitle": "Retail Sales Data Analysis",
+			"periodStart": "October 2019",
+			"periodEnd": "December 2019",
+			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
+			"tags": ["python", "data_science", "numpy", "pandas","matplotlib", "seaborn", "scikit_learn"],
+			"shortInfo": "A small, local chain of retail stores had graciously made its market basket data available to us for analysis. This data consists of records of several million sales, over several years, of tens of thousands of different products.The primary goal of this project is to provide the company with insights that will help them with their business, like (1) which products to promote, (2) which products to place near other products, (3) which products to stock, or (4) which to recommend to specific customers.",
+			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/Project%20Proposal"
+		},
+		{
+			"sn": 9,
+			"projectTitle": "Statistical Analysis and Significance Testing using R on Menu Types",
+			"periodStart": "October 2019",
+			"periodEnd": "November 2019",
+			"toolsUsed": ["R"],
+			"tags": ["r", "statistical_significance", "anova", "manova","pairwise_t_test"],
+			"shortInfo": "This project involves performing Analysis of Variance (ANOVA), Multivariate Analysis of Variance (MANOVA), and pairwise t-tests on datasets comprising of user ids, type of menu, time and error. The aim is to check for statistical significance in between-group and within-subject designs, using R.",
+			"link": "https://github.com/KaustavSBU/Human-Computer-Interaction/tree/master/Statistical%20Analysis"
+		},
+		{
+			"sn": 8,
+			"projectTitle": "Ames Housing Prices: Advanced Regression Techniques",
+			"periodStart": "September 2019",
+			"periodEnd": "October 2019",
+			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
+			"tags": ["python", "data_science", "numpy", "pandas","matplotlib", "seaborn", "scikit_learn"],
+			"shortInfo": "Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this project's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this project involves predicting the final price of each home.",
+			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/house-prices-advanced-regression-techniques"
+		},
 		{
 			"sn": 1,
 			"projectTitle": "NYSE Stock Analysis",
