@@ -514,7 +514,7 @@
 			"projectTitle": "Ames Housing Prices: Advanced Regression Techniques",
 			"periodStart": "September 2019",
 			"periodEnd": "October 2019",
-			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
+			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Seaborn", "Scikit-learn"],
 			"tags": ["python", "data_science", "numpy", "pandas","matplotlib", "seaborn", "scikit_learn"],
 			"shortInfo": "Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this project's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this project involves predicting the final price of each home.",
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/house-prices-advanced-regression-techniques"
