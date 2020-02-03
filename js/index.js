@@ -190,7 +190,7 @@ swal({
 			}
 		}).then((value)=>{
 			if(value===true) { 
-				window.open('/CV.pdf');
+				window.open('/Kaustav_Sarkar_v6.pdf');
 			}
 		})
 	}
