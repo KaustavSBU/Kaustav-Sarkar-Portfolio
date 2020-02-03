@@ -470,7 +470,7 @@
 	],
 	"projects": [
 		{
-			"sn": 10,
+			"sn": 1,
 			"projectTitle": "IEEE-CIS Fraud Detection",
 			"periodStart": "August 2019",
 			"periodEnd": "September 2019",
@@ -480,7 +480,7 @@
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/IEEE%20Fraud%20Prediction"
 		},
 		{
-			"sn": 11,
+			"sn": 2,
 			"projectTitle": "SHARK2 Decoder",
 			"periodStart": "September 2019",
 			"periodEnd": "October 2019",
@@ -490,7 +490,7 @@
 			"link": "https://github.com/KaustavSBU/Human-Computer-Interaction/tree/master/SHARK2"
 		},
 		{
-			"sn": 7,
+			"sn": 3,
 			"projectTitle": "Retail Sales Data Analysis",
 			"periodStart": "October 2019",
 			"periodEnd": "December 2019",
@@ -500,7 +500,7 @@
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/Project%20Proposal"
 		},
 		{
-			"sn": 9,
+			"sn": 4,
 			"projectTitle": "Statistical Analysis and Significance Testing using R on Menu Types",
 			"periodStart": "October 2019",
 			"periodEnd": "November 2019",
@@ -510,7 +510,7 @@
 			"link": "https://github.com/KaustavSBU/Human-Computer-Interaction/tree/master/Statistical%20Analysis"
 		},
 		{
-			"sn": 8,
+			"sn": 5,
 			"projectTitle": "Ames Housing Prices: Advanced Regression Techniques",
 			"periodStart": "September 2019",
 			"periodEnd": "October 2019",
@@ -520,7 +520,7 @@
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/house-prices-advanced-regression-techniques"
 		},
 		{
-			"sn": 1,
+			"sn": 6,
 			"projectTitle": "NYSE Stock Analysis",
 			"periodStart": "April 2019",
 			"periodEnd": "May 2019",
@@ -530,7 +530,7 @@
 			"link": "https://github.com/KaustavSBU/Databases-and-Big-Data/tree/master/NYSE%20Stock%20Analysis"
 		},
 		{
-			"sn": 2,
+			"sn": 7,
 			"projectTitle": "Stackable File System",
 			"periodStart": "March 2019",
 			"periodEnd": "April 2019",
@@ -540,7 +540,7 @@
 			"link": "https://github.com/KaustavSBU/Operating-Systems/tree/master/Stackable-File-System"
 		},
 		{
-			"sn": 3,
+			"sn": 8,
 			"projectTitle": "Encryption Decryption Linux System Call",
 			"periodStart": "February 2019",
 			"periodEnd": "March 2019",
@@ -550,7 +550,7 @@
 			"link": "https://github.com/KaustavSBU/Operating-Systems/tree/master/Encryption-Decryption-SystemCall"
 		},
 		{
-			"sn": 4,
+			"sn": 9,
 			"projectTitle": "Advanced Word Count",
 			"periodStart": "April 2019",
 			"periodEnd": "May 2019",
@@ -560,7 +560,7 @@
 			"link": "https://github.com/KaustavSBU/Databases-and-Big-Data/tree/master/Advanced%20Word%20Count"
 		},
 		{
-			"sn": 5,
+			"sn": 10,
 			"projectTitle": "Online Social Welfare System",
 			"periodStart": "November 2015",
 			"periodEnd": "March 2016",
@@ -570,7 +570,7 @@
 			"link": "https://github.com/KaustavSBU/Web-Development"
 		},
 		{
-			"sn": 6,
+			"sn": 11,
 			"projectTitle": "Auction Management System",
 			"periodStart": "March 2015",
 			"periodEnd": "April 2015",
