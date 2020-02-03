@@ -423,7 +423,7 @@
 			"periodStart": "January 2020",
 			"periodEnd": "Present",
 			"organisation": "Stony Brook University",
-			"experience": "<ul><li>Teaching Assistant for Graduate-Level Databases Course CSE 532: Theory of Database Systems</li><li> Coursework:</li></li><ul><li><li>– Includes complex queries and optimizations, XML data management, spatial data management, temporal data management, distributed and parallel databases, NoSQL databases, and MapReduce based data processing systems. We will discuss the foundations of data models, transaction models, storage, indexing and querying methods for these data management systems.</li><li> Course Website :</li></li><ul><li><li>– https://sites.google.com/a/stonybrook.edu/cse532-s20/home</li></li></ul>",
+			"experience": "<ul><li>Teaching Assistant for Graduate-Level Databases Course CSE 532: Theory of Database Systems</li><li> Coursework:</li></li><ul><li><li>– Includes complex queries and optimizations, XML data management, spatial data management, temporal data management, distributed and parallel databases, NoSQL databases, and MapReduce based data processing systems. We will discuss the foundations of data models, transaction models, storage, indexing and querying methods for these data management systems.</li><li> Course Website:</li></li><ul><li><li>– <a href='https://sites.google.com/a/stonybrook.edu/cse532-s20/home' </a></li></li></ul>",
 			"type": "work"
 		},
 
