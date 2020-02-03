@@ -475,7 +475,7 @@
 			"periodStart": "August 2019",
 			"periodEnd": "September 2019",
 			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-			"tags": ["python", "data_science", "numpy", "pandas","matplotlib", "seaborn", "scikit_learn"],
+			"tags": ["python", "data_science", "numpy", "pandas", "seaborn", "scikit_learn"],
 			"shortInfo": "This project aims to improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping businesses reduce their fraud loss and increase their revenue. The project uses Python Data Science Libraries like NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn. It also involves benchmarking of machine learning models on a challenging large scale dataset, provided by Vesta's real-world e-commerce transactions.",
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/IEEE%20Fraud%20Prediction"
 		},
@@ -495,7 +495,7 @@
 			"periodStart": "October 2019",
 			"periodEnd": "December 2019",
 			"toolsUsed": ["Python", "Jupyter Notebook", "NumPy", "SciPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-			"tags": ["python", "data_science", "numpy", "pandas","matplotlib", "seaborn", "scikit_learn"],
+			"tags": ["python", "data_science", "numpy", "pandas", "seaborn", "scikit_learn"],
 			"shortInfo": "A small, local chain of retail stores had graciously made its market basket data available to us for analysis. This data consists of records of several million sales, over several years, of tens of thousands of different products.The primary goal of this project is to provide the company with insights that will help them with their business, like (1) which products to promote, (2) which products to place near other products, (3) which products to stock, or (4) which to recommend to specific customers.",
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/Project%20Proposal"
 		},
