@@ -190,7 +190,7 @@ swal({
 			}
 		}).then((value)=>{
 			if(value===true) { 
-				window.open('/Kaustav_Sarkar_v6.pdf');
+				window.open('/Kaustav_Sarkar_Resume.pdf');
 			}
 		})
 	}
