@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce962f4-af58-4365-b4dd-d05a71d88fa9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/js/profile.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/profile.json" afterDir="false" />
-    </list>
+    <list default="true" id="0ce962f4-af58-4365-b4dd-d05a71d88fa9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/js/profile.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="727" column="435" selection-start-line="727" selection-start-column="435" selection-end-line="727" selection-end-column="435" />
+              <caret line="727" column="398" selection-start-line="727" selection-start-column="398" selection-end-line="727" selection-end-column="398" />
             </state>
           </provider>
         </entry>
@@ -575,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/js/profile.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="727" column="435" selection-start-line="727" selection-start-column="435" selection-end-line="727" selection-end-column="435" />
+          <caret line="727" column="398" selection-start-line="727" selection-start-column="398" selection-end-line="727" selection-end-column="398" />
         </state>
       </provider>
     </entry>
