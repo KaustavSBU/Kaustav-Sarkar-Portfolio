@@ -52,8 +52,8 @@
       <file leaf-file-name="profile.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/profile.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="387" column="238" selection-start-line="387" selection-start-column="238" selection-end-line="387" selection-end-column="238" />
+            <state relative-caret-position="113">
+              <caret line="386" column="30" lean-forward="true" selection-start-line="386" selection-start-column="30" selection-end-line="386" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -62,7 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Ad-</find>
       <find>profile</find>
       <find>Ad</find>
       <find>passi</find>
@@ -92,6 +91,7 @@
       <find>engineer</find>
       <find>edu</find>
       <find>education</find>
+      <find>spring</find>
     </findStrings>
     <replaceStrings>
       <replace>kaustav.sarkar@stonybrook.edu</replace>
@@ -574,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/profile.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="387" column="238" selection-start-line="387" selection-start-column="238" selection-end-line="387" selection-end-column="238" />
+        <state relative-caret-position="113">
+          <caret line="386" column="30" lean-forward="true" selection-start-line="386" selection-start-column="30" selection-end-line="386" selection-end-column="30" />
         </state>
       </provider>
     </entry>
