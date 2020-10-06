@@ -52,8 +52,8 @@
       <file leaf-file-name="profile.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/profile.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="436" column="634" selection-start-line="436" selection-start-column="634" selection-end-line="436" selection-end-column="634" />
+            <state relative-caret-position="68">
+              <caret line="477" column="1817" selection-start-line="477" selection-start-column="1817" selection-end-line="477" selection-end-column="1817" />
             </state>
           </provider>
         </entry>
@@ -62,7 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>experince</find>
       <find>contai</find>
       <find>page</find>
       <find>content</find>
@@ -92,10 +91,12 @@
       <find>cv</find>
       <find>href</find>
       <find>Kaustav_Sarkar_v6.pdf</find>
+      <find>\\n</find>
     </findStrings>
     <replaceStrings>
       <replace>kaustav.sarkar@stonybrook.edu</replace>
       <replace>Kaustav_Sarkar_Resume.pdf</replace>
+      <replace>&lt;br/&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -573,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/profile.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="436" column="634" selection-start-line="436" selection-start-column="634" selection-end-line="436" selection-end-column="634" />
+        <state relative-caret-position="68">
+          <caret line="477" column="1817" selection-start-line="477" selection-start-column="1817" selection-end-line="477" selection-end-column="1817" />
         </state>
       </provider>
     </entry>

@@ -428,64 +428,54 @@
 			"type": "work"
 		},
       {
-            "sn": 7,
+            "sn": 2,
 			"link": "https://www.stonybrookmedicine.edu/",
-			"workPosition": "Senior Software Engineer",
-			"periodStart": "October 2020",
+			"workPosition": "Researcher",
+			"periodStart": "June 2020",
 			"periodEnd": "Present",
 			"organisation": "Stony Brook Medicine",
-			"experience": "• POSDA: POSDA is an open source application for the archival and curation of DICOM datasets. After receiving the data from submitters our curation teams use POSDA to perform additional quality checks and ensure all data was completely de-identified. It allows users to import DICOM data while tracking date and time received. Users can also prioritize multiple data submission streams based on assigned priority, identify, and resolve duplicate unique identifiers (UIDs) submitted with different image or metadata, and check and edit data for DICOM conformance, consistency, and referential integrity.<br/>◦ Worked in Agile/ Scrum environment with bi-weekly Sprint. Developed non-functional HTML5, CSS3 pages from the mockups and involved in UI review with Architect and Business Units.<br/>◦Developed Session beans, which encapsulate the workflow logic and used Hibernate to access data.<br/>◦ Implemented Spring-JDBC template for persistence CRUD operations.<br/>◦ Converted a monolithic app to microservices architecture using Spring Boot. Developed Spring Boot application, which includes the development of producing and consumption of RESTful web services to verify the customer eligibility for the applied insurance policy.<br/>◦ Created event driven jobs using AWS like DynamoDB, SQS and AWS Lambda with Java. Used Git for version control/Source code repository, JIRA for issue/defect tracking and project management.<br/>◦ Used Python libraries like Faker to anonymize patient data, to make it HIPAA compliant.<br/>• Environment: Java 1.7/1.8, JSP, Spring MVC, Spring 4.x, Hibernate 4.x, UML, JavaScript, HTML5, CSS3, Ajax, DB2, JIRA, Confluence, GIT, RESTful web services, Maven, Log4J, WebSphere Application Server, Tomcat 8, Windows, AWS EC2, S3.",
+			"experience": "• POSDA: POSDA is an open source application for the archival and curation of DICOM datasets. After receiving the data from submitters our curation teams use POSDA to perform additional quality checks and ensure all data was completely de-identified. It allows users to import DICOM data while tracking date and time received. Users can also prioritize multiple data submission streams based on assigned priority, identify, and resolve duplicate unique identifiers (UIDs) submitted with different image or metadata, and check and edit data for DICOM conformance, consistency, and referential integrity.<br/>◦ Worked in Agile/Scrum environment with bi-weekly Sprint. Developed non-functional HTML5, CSS3 pages from the mockups and involved in UI review with Architect and Business Units.<br/>◦ Developed Session beans, which encapsulate the workflow logic and used Hibernate to access data.<br/>◦ Implemented Spring-JDBC template for persistence CRUD operations.<br/>◦ Converted a monolithic app to microservices architecture using Spring Boot. Developed Spring Boot application, which includes the development of producing and consumption of RESTful web services to verify the customer eligibility for the applied insurance policy.<br/>◦ Created event driven jobs using AWS like DynamoDB, SQS and AWS Lambda with Java. Used Git for version control/Source code repository, JIRA for issue/defect tracking and project management.<br/>◦ Used Python libraries like Faker to anonymize patient data, to make it HIPAA compliant.<br/>• Environment: Java 1.7/1.8, JSP, Spring MVC, Spring 4.x, Hibernate 4.x, UML, JavaScript, HTML5, CSS3, Ajax, DB2, JIRA, Confluence, GIT, RESTful web services, Maven, Log4J, WebSphere Application Server, Tomcat 8, Windows, AWS EC2, S3.",
 			"type": "work"
 		},
       {
-			"sn": 2,
+			"sn": 3,
 			"link": "https://www.stonybrook.edu/",
-			"workPosition": "Teaching Assistant",
+			"workPosition": "Graduate Teaching Assistant",
 			"periodStart": "January 2020",
-			"periodEnd": "Present",
+			"periodEnd": "May 2020",
 			"organisation": "Stony Brook University",
-			"experience": "<ul><li>Teaching Assistant for Graduate-Level Databases Course CSE 532: Theory of Database Systems</li><li> Coursework:</li></li><ul><li><li>– Includes complex queries and optimizations, XML data management, spatial data management, temporal data management, distributed and parallel databases, NoSQL databases, and MapReduce based data processing systems. We will discuss the foundations of data models, transaction models, storage, indexing and querying methods for these data management systems.</li><li> Course Website:</li></li><ul><li><li>– <a href='https://sites.google.com/a/stonybrook.edu/cse532-s20/home'> CSE 532:Theory of Database Systems</a></li></li></ul>",
+			"experience": "• Teaching Assistant for Graduate-Level Databases Course CSE 532: Theory of Database Systems<br/>Coursework:<br/>• Includes complex queries and optimizations, XML data management, spatial data management, temporal data management, distributed and parallel databases, NoSQL databases, and MapReduce based data processing systems. We will discuss the foundations of data models, transaction models, storage, indexing and querying methods for these data management systems.<br/>Course Website :<br/>https://sites.google.com/a/stonybrook.edu/cse532-s20/home",
+			"type": "work"
+		},
+      {
+			"sn": 4,
+			"link": "https://www.stonybrook.edu/",
+			"workPosition": "Graduate Research Assistant",
+			"periodStart": "August 2020",
+			"periodEnd": "May 2020",
+			"organisation": "Stony Brook University",
+			"experience": "• I served as the Lead Database Architect of the research team, working alongside Prof. IV Ramakrishnan and Prof. Paul Fodor on Fetal Heart Rate Project.<br>• The project was approved and funded under the National Institutes of Health (NIH) Research Project Grant Program (RO1) to investigate machine learning methods for classiﬁcation of intrapartum signals (FHR and uterine activity) that has the potential to signiﬁcantly outperform the accuracy of contemporary methods.",
 			"type": "work"
 		},
 
 		{
-			"sn": 3,
-			"link": "https://www.tcs.com/",
-			"workPosition": "System Engineer",
-			"periodStart": "July 2018",
-			"periodEnd": "December 2018",
-			"organisation": "Tata Consultancy Services (TCS)",
-			"experience": "<ul><li>On further promotion to System Engineer, I took an even more active participation as a Database Administrator (DBA) for one of the biggest projects in TCS in terms of number of clients served (>24k clients), eclipsing the likes of Morrisons and Walmart, where my responsibilities extended to maintaining the server, apart from the SQL developer role I already had.</li><li> In this phase, I used the following tools and technologies:</li></li><ul><li><li>– Sybase Adaptive Server Enterprise (ASE)</li></li><li>– SQL Anywhere</li> <li>– MobiLink Synchronization Server</li> </ul>",
-			"type": "work"
-		},
-		{
-			"sn": 4,
-			"link": "https://www.tcs.com/",
-			"workPosition": "Assistant System Engineer",
-			"periodStart": "July 2017",
-			"periodEnd": "July 2018",
-			"organisation": "Tata Consultancy Services (TCS)",
-			"experience": "<ul><li>After getting promoted, I shifted to a Database Administrator (DBA) role for one of the biggest projects in TCS in terms of number of clients served (>24k clients), eclipsing the likes of Morrisons and Walmart.</li><li> In this phase, I used the following tools and technologies:</li></li><ul><li><li>– Sybase Adaptive Server Enterprise (ASE)</li></li><li>– SQL Anywhere</li> <li>– MobiLink Synchronization Server</li> </ul>",
-			"type": "work"
-		},
-		{
 			"sn": 5,
 			"link": "https://www.tcs.com/",
-			"workPosition": "Assistant System Engineer-Trainee",
+			"workPosition": "Software Engineer",
 			"periodStart": "July 2016",
-			"periodEnd": "July 2017",
+			"periodEnd": "December 2018",
 			"organisation": "Tata Consultancy Services (TCS)",
-			"experience": "<ul><li>Started my professional career with an Initial Learning Period (ILP) of 2 months on Java, which included building of responsive web applications. </li><li> The main tools and technologies used during this phase were:</li></li><ul><li><li>– JDBC</li><li>– JSP</li></li><li>– Hibernate ORM</li> <li>– JavaScript</li> <li>– HTML</li> <li>– CSS</li> </ul> <ul><li>After the ILP phase, I got the opportunity to work for one of the biggest projects of TCS, where I started to work as a Desktop Application Developer.</li><li> The main tools and technologies used during this phase were:</li></li><ul><li><li>– JavaFX</li><li>– Spring Framework</li></li><li>– Soap UI</li> <li>– iBatis <li>– Swing</li></li> </ul>",
+			"experience": "• Project: Department of Post, Core System Integration<br/>◦ Developed the application using Java 1.8, Spring MVC, Batch, Spring Boot, Micro Services deployed in Cloud using AWS.<br/>◦ Used Lambda expressions, Functional Interfaces and Streams among other concepts from Java 8.<br/>◦ Used Spring MVC Design Pattern to hold the UI data and serve the request and to send the response.<br/>◦ Connected to Data sources and performed operations using Spring Data Framework features like Spring JDBC and Spring ORM.<br/>◦ Created and injected Spring services, Spring controllers and DAOs to achieve dependency injection and to wire objects of business classes Experience with developing Hibernate 5.x Annotations.<br/>◦ Developed the application security using Spring Security and integrated with LDAP and Active Directory.<br/>◦ Spring AOP is used for logging, auditing, transaction management to distinguish business logic from the cross-cutting concerns. Extensively used Application Context, Spring DI for loading Properties during run time.<br/>◦ The Micro Services are implemented using Spring Boot, REST API and Hibernate ORM. Implemented JEE components using Spring MVC and Spring Security modules.<br/>◦ Extensively worked on Hibernate Cache, Query, Criteria and Transactions for POC.<br/>◦ Designed and developed many Spring RESTful web services which produce different response types including JSON, XML and are consumed by different front-end applications.<br/>◦ Implemented and maintained monitoring and alerting of production and corporate servers such as EC2 and storage such as S3 buckets using AWS CloudWatch.<br/>◦ Implemented AWS IAM for managing the credentials of applications that runs on EC2 instances.<br/>◦ Utilized AWS Lambda platform to upload data into AWS S3 buckets and to trigger other Lambda functions.<br/>• Environment: Java 1.8, J2EE, Spring 4.2, Spring MVC, Hibernate 5.x, Spring Boot, Microservices, AWS ( S3, EC2, IAM etc), REST, HTML, CSS, JavaScript, Jenkins, GIT, Log4J, Maven, JUnit, JSON, MySQL.",
 			"type": "work"
 		},
 		{
 			"sn": 6,
 			"link": "http://www.indianrail.gov.in",
-			"workPosition": "Summer Intern",
+			"workPosition": "Technology Analyst Co-Op",
 			"periodStart": "June 2015",
-			"periodEnd": "July 2015",
+			"periodEnd": "June 2016",
 			"organisation": "Ministry of Indian Railways, Govt. of India",
-			"experience": "<ul><li>Summer Internship at Undergraduate level, where I worked on the Web Application Development of Payroll Management System, commonly known as Integrated Payroll and Accounting System (IPAS), using PHP, RedBeanPHP ORM and MySQL.</li><li> IPAS is the internal payroll management system, through which all employees of Indian Railways receive their salary.<li> I used the following tools and technologies:</li></li><ul><li><li>– PHP</li><li>– RedBeanPHP ORM</li></li><li>– MySQL</li></ul>",
+			"experience": "• IPAS: Web Application Development of Payroll Management System, commonly known as Integrated Payroll and Accounting System (IPAS). IPAS is the internal payroll management system, through which all employees of Indian Railways receive their salary.<br/>◦ Implemented the front end using JSP, HTML, XML, CSS and JavaScript, jQuery, AJAX for dynamic web content. Also implemented Spring MVC architecture and Spring Bean Factory using IOC, AOP concepts.<br/>◦ Extensively used Hibernate 3.5 in data access layer to access and update information in the database using HQL.<br/>◦ Involved in writing SQL, Stored procedure, and PL/SQL for back end. Used Views and Functions at the Oracle Database end. Developed the PL/SQL scripts for rebuilding the application Oracle Database.<br/>◦ Used JDBC to invoke Stored Procedures and database connectivity to ORACLE 10g.<br/>◦ Implemented Spring ORM wiring with Hibernate provided access to Oracle 10g RDBMS.<br/>◦ Used Hibernate EHCache for second level caching which resulted in enhanced performance of the application.<br/>◦ Responsible for implementing the transaction management in the application by applying Spring AOP methodology and XML parsing by using JAXB for XML Schema Validation.<br/>◦ Used XSLT to transform XML data structure into HTML pages. Consumed SOAP & REST based web services to transfer information.<br/>◦ Monitored the error logs using Log4J and fixing the problems.<br/>◦ Used Java Message Service (JMS) for reliable and asynchronous exchange of important information, such as order status report, delivery report.<br/>◦ Maven was used to manage dependencies in the application and deploy it on WebSphere Application server. SVN was used for the version control.<br/>◦ Followed TDD and wrote unit test cases using JUnit.<br/>• Environment: Java 1.6, J2EE, JSP, Spring MVC, Spring 3.1, Hibernate 3.5, JMS 1.1, XML, SOAP, AJAX, HTML, JavaScript, CSS, Log4J, JAXB, JUnit, WebSphere Application Server 6.0, Eclipse 3.5, Oracle 10g.",
 			"type": "work"
 		}
 	],
