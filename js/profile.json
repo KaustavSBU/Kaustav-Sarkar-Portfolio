@@ -5,11 +5,12 @@
 		"lname": "Sarkar",
 		"nick": "KaustavSBU",
 		"address": {
-			"list": ["700, Health Sciences Drive, Chapin Apartments J2142, Stony Brook, New York, United States 11790 ",
+			"list": [ "2111 Glencoe Hills, Drive Apartment 9, Ann Arbor, Michigan, United States 48108",
+                "700, Health Sciences Drive, Chapin Apartments J2142, Stony Brook, New York, United States 11790 ",
 				"152/1, Purba Fulbagan and Fulbagan Road, Baghajatin, Kolkata, West Bengal, India 700086"
 			]
 		},
-		"email": "kaustav.sarkar@stonybrook.edu",
+		"email": "kaustav.sbu@gmail.com",
 		"mob": "+1-(631)-202-9051"
 	},
 	"educations": [{
@@ -417,7 +418,17 @@
 	"experience": [
 
 		{
-			"sn": 1,
+            "sn": 1,
+			"link": "https://www.paychex.com/",
+			"workPosition": "Senior Software Engineer",
+			"periodStart": "October 2020",
+			"periodEnd": "Present",
+			"organisation": "Paychex, Inc.",
+			"experience": "• Working as a Senior Software Engineer for Client Onboarding Solutions Team @ Paychex HQ at Rochester, NY",
+			"type": "work"
+		},
+      {
+			"sn": 2,
 			"link": "https://www.stonybrook.edu/",
 			"workPosition": "Teaching Assistant",
 			"periodStart": "January 2020",
@@ -428,7 +439,7 @@
 		},
 
 		{
-			"sn": 2,
+			"sn": 3,
 			"link": "https://www.tcs.com/",
 			"workPosition": "System Engineer",
 			"periodStart": "July 2018",
@@ -438,7 +449,7 @@
 			"type": "work"
 		},
 		{
-			"sn": 3,
+			"sn": 4,
 			"link": "https://www.tcs.com/",
 			"workPosition": "Assistant System Engineer",
 			"periodStart": "July 2017",
@@ -448,7 +459,7 @@
 			"type": "work"
 		},
 		{
-			"sn": 4,
+			"sn": 5,
 			"link": "https://www.tcs.com/",
 			"workPosition": "Assistant System Engineer-Trainee",
 			"periodStart": "July 2016",
@@ -458,7 +469,7 @@
 			"type": "work"
 		},
 		{
-			"sn": 5,
+			"sn": 6,
 			"link": "http://www.indianrail.gov.in",
 			"workPosition": "Summer Intern",
 			"periodStart": "June 2015",
