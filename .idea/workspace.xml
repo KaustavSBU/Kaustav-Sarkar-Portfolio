@@ -52,8 +52,8 @@
       <file leaf-file-name="profile.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/profile.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="387" column="1403" lean-forward="true" selection-start-line="387" selection-start-column="1403" selection-end-line="387" selection-end-column="1403" />
+            <state relative-caret-position="184">
+              <caret line="727" column="435" selection-start-line="727" selection-start-column="435" selection-end-line="727" selection-end-column="435" />
             </state>
           </provider>
         </entry>
@@ -574,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/profile.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="387" column="1403" lean-forward="true" selection-start-line="387" selection-start-column="1403" selection-end-line="387" selection-end-column="1403" />
+        <state relative-caret-position="184">
+          <caret line="727" column="435" selection-start-line="727" selection-start-column="435" selection-end-line="727" selection-end-column="435" />
         </state>
       </provider>
     </entry>
