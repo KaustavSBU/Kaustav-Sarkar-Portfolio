@@ -25,7 +25,7 @@ function loadProjects(projects){
 	var projectsInnerHTML='';
 	for(i=0;i<projects.length;i++){					
 		project = ' <div class="row project"><div class="col m6 s12"><div class="row"><span class="title">'+projects[i].projectTitle+'</span><hr></div><div class="row"><span>'+projects[i].periodStart+'-'+projects[i].periodEnd+'</span></div>';
-		toolsUsed = '<div class="row">Tools Used:&nbsp';
+		toolsUsed = '<div class="row">Technologies/Tools Used:&nbsp';
 		for(j=0;j<projects[i].toolsUsed.length;j++){
 			toolsUsed+='<span>'+projects[i].toolsUsed[j]+'</span>&nbsp';
 		}
