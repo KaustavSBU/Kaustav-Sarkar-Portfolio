@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce962f4-af58-4365-b4dd-d05a71d88fa9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/profile.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/profile.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +52,8 @@
       <file leaf-file-name="profile.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/profile.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="377" column="424095" selection-start-line="377" selection-start-column="424095" selection-end-line="377" selection-end-column="424095" />
+            <state relative-caret-position="241">
+              <caret line="387" column="238" selection-start-line="387" selection-start-column="238" selection-end-line="387" selection-end-column="238" />
             </state>
           </provider>
         </entry>
@@ -575,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/profile.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="377" column="424095" selection-start-line="377" selection-start-column="424095" selection-end-line="377" selection-end-column="424095" />
+        <state relative-caret-position="241">
+          <caret line="387" column="238" selection-start-line="387" selection-start-column="238" selection-end-line="387" selection-end-column="238" />
         </state>
       </provider>
     </entry>
