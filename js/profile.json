@@ -481,17 +481,17 @@
 	],
 	"projects": [
         {
-			"sn": 12,
+			"sn": 1,
 			"projectTitle": "IOT Car Tracker",
 			"periodStart": "June 2020",
 			"periodEnd": "July 2020",
 			"toolsUsed": ["Spring Core", "Jetbrains", "Spring MVC", "Jenkins", "Docker", "Spring Boot", "AWS SES", "AWS SNS", "SwaggerUI"],
-			"tags": ["iot", "spring_boot", "fleet_management_system", "jenkins", "aws", "docker"],
+			"tags": ["iot", "spring_boot", "fleet_management_system", "aws", "docker"],
 			"shortInfo": "• Developed following REST endpoints for ingestion from: http://mocker.egen.academy/<br/>•  Load vehicle details in bulk via a PUT /vehicles endpoint.<br/>•  If the vehicle with same VIN is already present, update the regard in db.<br/>•  Ingest readings from these vehicles via POST readings .<br/>•  Create alerts with given priority when following rules are triggered:<br/>-Rule: engineRpm > readlineRpm , Priority: HIGH<br/>-Rule: fuelVoLume < 10% of maxFuelVolume , Priority: MEDIUM<br/>-Rule: tire pressure of any tire < 32psi | > 36psi , Priority: LOW<br/>-Rule: engineCoolantLow = true || checkEngineLightOn = true , Priority: LOW<br/>•  Develop ability to send an email and SMS to the user when HIGH alerts are triggered for a vehicle (AWS SES).<br/>•  Develop REST end points for:<br/>-Fetch details of all the vehicles like VIN, make, model, year etc.<br/>-Fetch HIGH alerts within last 2 hours for all the vehicles and ability to sort list of vehicles based on it.<br/>-Ability to list vehicle's geolocation within last 30minutes on a map.<br/>-Ability to list a vehicle's all historical alerts.<br/>•  Dockerfile and Jenkinsfile support.<br/>•  SwaggerUI support.",
 			"link": "https://github.com/KaustavSBU/Car-Tracker-IOT"
 		},
 		{
-			"sn": 1,
+			"sn": 2,
 			"projectTitle": "IEEE-CIS Fraud Detection",
 			"periodStart": "August 2019",
 			"periodEnd": "September 2019",
@@ -501,7 +501,7 @@
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/IEEE%20Fraud%20Prediction"
 		},
 		{
-			"sn": 2,
+			"sn": 3,
 			"projectTitle": "SHARK2 Decoder",
 			"periodStart": "September 2019",
 			"periodEnd": "October 2019",
@@ -511,7 +511,7 @@
 			"link": "https://github.com/KaustavSBU/Human-Computer-Interaction/tree/master/SHARK2"
 		},
 		{
-			"sn": 3,
+			"sn": 4,
 			"projectTitle": "Retail Sales Data Analysis",
 			"periodStart": "October 2019",
 			"periodEnd": "December 2019",
@@ -521,7 +521,7 @@
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/Project%20Proposal"
 		},
 		{
-			"sn": 4,
+			"sn": 5,
 			"projectTitle": "Statistical Analysis and Significance Testing using R on Menu Types",
 			"periodStart": "October 2019",
 			"periodEnd": "November 2019",
@@ -531,7 +531,7 @@
 			"link": "https://github.com/KaustavSBU/Human-Computer-Interaction/tree/master/Statistical%20Analysis"
 		},
 		{
-			"sn": 5,
+			"sn": 6,
 			"projectTitle": "Ames Housing Prices: Advanced Regression Techniques",
 			"periodStart": "September 2019",
 			"periodEnd": "October 2019",
@@ -541,7 +541,7 @@
 			"link": "https://github.com/KaustavSBU/Data-Science/tree/master/house-prices-advanced-regression-techniques"
 		},
 		{
-			"sn": 6,
+			"sn": 7,
 			"projectTitle": "NYSE Stock Analysis",
 			"periodStart": "April 2019",
 			"periodEnd": "May 2019",
@@ -551,7 +551,7 @@
 			"link": "https://github.com/KaustavSBU/Databases-and-Big-Data/tree/master/NYSE%20Stock%20Analysis"
 		},
 		{
-			"sn": 7,
+			"sn": 8,
 			"projectTitle": "Stackable File System",
 			"periodStart": "March 2019",
 			"periodEnd": "April 2019",
@@ -561,7 +561,7 @@
 			"link": "https://github.com/KaustavSBU/Operating-Systems/tree/master/Stackable-File-System"
 		},
 		{
-			"sn": 8,
+			"sn": 9,
 			"projectTitle": "Encryption Decryption Linux System Call",
 			"periodStart": "February 2019",
 			"periodEnd": "March 2019",
@@ -571,7 +571,7 @@
 			"link": "https://github.com/KaustavSBU/Operating-Systems/tree/master/Encryption-Decryption-SystemCall"
 		},
 		{
-			"sn": 9,
+			"sn": 10,
 			"projectTitle": "Advanced Word Count",
 			"periodStart": "April 2019",
 			"periodEnd": "May 2019",
@@ -581,7 +581,7 @@
 			"link": "https://github.com/KaustavSBU/Databases-and-Big-Data/tree/master/Advanced%20Word%20Count"
 		},
 		{
-			"sn": 10,
+			"sn": 11,
 			"projectTitle": "Online Social Welfare System",
 			"periodStart": "November 2015",
 			"periodEnd": "March 2016",
@@ -591,7 +591,7 @@
 			"link": "https://github.com/KaustavSBU/Web-Development"
 		},
 		{
-			"sn": 11,
+			"sn": 12,
 			"projectTitle": "Auction Management System",
 			"periodStart": "March 2015",
 			"periodEnd": "April 2015",
