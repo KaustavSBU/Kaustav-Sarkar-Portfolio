@@ -1,4 +1,21 @@
+function loadSkills(skills){
+		var i=0,j;
+		var skillsInnerHTML='';
+		while(i<skills.length){
 
+			var row = '<div class="row">';
+			for(j=i;j<i+6&&j<skills.length;j++){
+				var skill = '<div class="col m2"><img src="img/' + skills[j].icon + '"/>'+skills[j].name+'</div>';
+				row+=skill;
+
+			}
+			row+='</div>';
+			skillsInnerHTML+=row;
+
+			i=j;
+		}
+		$('#skills').html(skillsInnerHTML);
+}
 
 function loadProjects(projects){
 	projects.sort(function(a,b){
@@ -209,21 +226,3 @@ $.get("js/profile.json",
 		onBodyLoad();
 });
 
-function loadSkills(skills){
-		var i=0,j;
-		var skillsInnerHTML='';
-		while(i<skills.length){
-
-			var row = '<div class="row">';
-			for(j=i;j<i+6&&j<skills.length;j++){
-				var skill = '<div class="col l2"><img src="img/' + skills[j].icon + '"/>'+skills[j].name+'</div>';
-				row+=skill;
-
-			}
-			row+='</div>';
-			skillsInnerHTML+=row;
-
-			i=j;
-		}
-		$('#skills').html(skillsInnerHTML);
-}
