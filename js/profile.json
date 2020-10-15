@@ -447,7 +447,7 @@
 			"name": "Confluence",
 			"icon": "confluence.png"
 		}
-		,
+		/*,
       {
 			"sn": 31,
 			"name": "Bitbucket",
@@ -478,7 +478,7 @@
 			"sn": 36,
 			"name": "IntelliJ IDEA",
 			"icon": "intellij_idea.png"
-		}
+		}*/
 
 
 	],
