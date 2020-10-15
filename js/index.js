@@ -209,7 +209,7 @@ $.get("js/profile.json",
 		onBodyLoad();
 });
 
-function loadSkills(skills){
+/*function loadSkills(skills){
 		var i=0,j;
 		var skillsInnerHTML='';
 		while(i<skills.length){
@@ -226,4 +226,4 @@ function loadSkills(skills){
 			i=j;
 		}
 		$('#skills').html(skillsInnerHTML);
-}
+}*/
