@@ -412,7 +412,7 @@
 			"name": "Amazon Web Services(AWS)",
 			"icon": "aws.png"
 		}
-		/*,
+		,
       {
 			"sn": 25,
 			"name": "Sybase",
@@ -475,12 +475,12 @@
 			"icon": "msoffice.png"
 		},
       {
-			"sn": 23,
+			"sn": 36,
 			"name": "IntelliJ IDEA",
 			"icon": "intellij_idea.png"
 		}
 
-*/
+
 	],
 	"experience": [
 
