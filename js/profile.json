@@ -412,7 +412,74 @@
 			"name": "Amazon Web Services(AWS)",
 			"icon": "aws.png"
 		}
-		
+		,
+      {
+			"sn": 25,
+			"name": "Sybase",
+			"icon": "sybase.png"
+		},
+      {
+			"sn": 26,
+			"name": "IBM DB2",
+			"icon": "ibm_db2.png"
+		}
+		,
+      {
+			"sn": 27,
+			"name": "Oracle",
+			"icon": "oracle.png"
+		}
+		,
+      {
+			"sn": 28,
+			"name": "Maven",
+			"icon": "maven.png"
+		}
+		,
+      {
+			"sn": 29,
+			"name": "Jira",
+			"icon": "jira.png"
+		}
+		,
+      {
+			"sn": 30,
+			"name": "Confluence",
+			"icon": "confluence.png"
+		}
+		,
+      {
+			"sn": 31,
+			"name": "Bitbucket",
+			"icon": "bitbucket.png"
+		}
+		,
+      {
+			"sn": 32,
+			"name": "Docker",
+			"icon": "docker.png"
+		},
+      {
+			"sn": 33,
+			"name": "Kubernetes",
+			"icon": "kubernetes.png"
+		},
+      {
+			"sn": 34,
+			"name": "Spring MVC",
+			"icon": "springmvc.png"
+		},
+      {
+			"sn": 35,
+			"name": "Microsoft Office",
+			"icon": "msoffice.png"
+		},
+      {
+			"sn": 36,
+			"name": "IntelliJ IDEA",
+			"icon": "intellij_idea.png"
+		}
+
 
 	],
 	"experience": [
